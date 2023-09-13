@@ -1,0 +1,12 @@
+
+
+.popular-recipes{
+width: 335px;
+height: 202px;
+background-color: aqua;
+}
+
+.title-popular-recipes{
+    text-transform: uppercase;
+    margin-bottom: 20px;;
+}
